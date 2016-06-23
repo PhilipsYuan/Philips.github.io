@@ -1,7 +1,7 @@
 {
   "name": "Philips.GitHub.io",
   "tagline": "Philips Tech Blog",
-  "body": "# Philips.github.io\r\nDocker 的理解和简单操作\r\n\r\n",
+  "body": "# Philips.github.io\r\nDocker 的理解和简单操作\r\ndocker的官网是这样定义的：\r\n“Docker是一个为开发者和运维管理员搭建的开放平台软件，可以在这个平台上创建，管理和运行生产应用”\r\n以我个人理解Docker的功能和npm， mavene类似。npm是管理js包的工具（可以方便，下载，管理），maven是管理java包的一个工具，类推到Docker， Docker就是\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }

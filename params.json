@@ -1,7 +1,7 @@
 {
   "name": "Philips.GitHub.io",
   "tagline": "Philips Tech Blog",
-  "body": "# Philips.github.io\r\n##Docker 的理解和简单操作\r\n####docker的官网是这样定义的：\r\n#####“Docker是一个为开发者和运维管理员搭建的开放平台软件，可以在这个平台上创建，管理和运行生产应用”\r\n#####以我个人理解Docker的功能和npm， mavene类似。npm是管理js包的工具（可以方便，下载，管理），maven是管理java包的一个工具，类推到Docker， Docker就是环境搭建工具（可以方便，下载，搭建，关闭）我想要一个mySQl，交给docker，我想要一个nodejs服务环境，交给docker，我想要个jenkins，交给docker，我想要个redis，交给docker...\r\n####docker的安装（windows）,一般mac安装都比较容易。参考文档：https://docs.docker.com/\r\n1. 下载Docker Toolbox 地址： https://www.docker.com/products/docker-toolbox\r\n2. 下载完之后，会发现两个：",
+  "body": "# Philips.github.io\r\n##Docker 的理解和简单操作\r\n####docker的官网是这样定义的：\r\n#####“Docker是一个为开发者和运维管理员搭建的开放平台软件，可以在这个平台上创建，管理和运行生产应用”\r\n#####以我个人理解Docker的功能和npm， mavene类似。npm是管理js包的工具（可以方便，下载，管理），maven是管理java包的一个工具，类推到Docker， Docker就是环境搭建工具（可以方便，下载，搭建，关闭）我想要一个mySQl，交给docker，我想要一个nodejs服务环境，交给docker，我想要个jenkins，交给docker，我想要个redis，交给docker...\r\n####docker的安装（windows）,一般mac安装都比较容易。参考文档：https://docs.docker.com/\r\n1. 下载Docker Toolbox 地址： https://www.docker.com/products/docker-toolbox\r\n2. 下载完之后，会发现三个应用： Docker Quickstart Terminal, Kitematic(alpha), Oracle VM VirtualBox\r\n3. 打开Docker Quickstart Terminal，就会自动配置docker，最后显示分配的IP\r\n4.接下可以就可以随意操作docker了。\r\n####Docker的 镜象（image）和盒子（container）\r\nImage顾名思义就是镜像，我们可以把他理解为一个执行环境（env），在我们执行了docker run（这个下面会介绍）命令之后，就会根据当前的Image创建一个新的Container，container是一个程序运行的沙箱，它们互相独立，但都运行在有Image创建的执行环境之上。\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }

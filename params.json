@@ -1,7 +1,7 @@
 {
   "name": "Philips.GitHub.io",
   "tagline": "Philips Tech Blog",
-  "body": "# Philips.github.io\r\n##Docker 的理解和简单操作\r\n####docker的官网是这样定义的：\r\n#####“Docker是一个为开发者和运维管理员搭建的开放平台软件，可以在这个平台上创建，管理和运行生产应用”\r\n#####以我个人理解Docker的功能和npm， mavene类似。npm是管理js包的工具（可以方便，下载，管理），maven是管理java包的一个工具，类推到Docker， Docker就是环境搭建工具（可以方便，下载，搭建，关闭）我想要一个mySQl，交给docker，我想要一个nodejs服务环境，交给docker，我想要个jenkins，交给docker，我想要个redis，交给docker...\r\n####docker的安装（windows）,一般mac安装都比较容易。参考文档：https://docs.docker.com/ - automatic!",
+  "body": "# Philips.github.io\r\n##Docker 的理解和简单操作\r\n####docker的官网是这样定义的：\r\n#####“Docker是一个为开发者和运维管理员搭建的开放平台软件，可以在这个平台上创建，管理和运行生产应用”\r\n#####以我个人理解Docker的功能和npm， mavene类似。npm是管理js包的工具（可以方便，下载，管理），maven是管理java包的一个工具，类推到Docker， Docker就是环境搭建工具（可以方便，下载，搭建，关闭）我想要一个mySQl，交给docker，我想要一个nodejs服务环境，交给docker，我想要个jenkins，交给docker，我想要个redis，交给docker...\r\n####docker的安装（windows）,一般mac安装都比较容易。参考文档：https://docs.docker.com/\r\n1. 下载Docker Toolbox 地址： https://www.docker.com/products/docker-toolbox\r\n2. 下载完之后，会发现两个：",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
